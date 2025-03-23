@@ -1,0 +1,15 @@
+.jeronimo {
+    display : flex ;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+.submit {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
